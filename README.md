@@ -1,5 +1,4 @@
-# Presentation for Getting Started on 
-# Building Your Portfolio Website
+# Presentation for Getting Started on Building Your Portfolio Website
 
 ## Templates 
 
